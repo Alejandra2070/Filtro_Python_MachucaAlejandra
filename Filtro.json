@@ -1,0 +1,87 @@
+[
+    {
+        "Usuarios":[
+            {
+                "id":1,
+                "nombre": "Alejandra",
+                "apellido": "Machuca",
+                "direccion":"campus",
+                "numero_celular":3134674085
+            },
+            {
+                "id":2,
+                "nombre": "Yessica",
+                "apellido": "Perez",
+                "direccion":"campus",
+                "numero_celular":3135498765
+            }
+        ],
+        "categorias":[
+            {
+                "id":1,
+                "nombre": "Nuevos clientes"
+            },
+            {
+                "id":2,
+                "nombre": "Clientes regulares"
+            },
+            {
+                "id":3,
+                "nombre": "Clientes leales"
+            }
+        ],
+        "servicios":[
+            {
+                "id":1,
+                "nombre": "Internet de Fibra Óptica",
+                "caracteristicas": "100G",
+                "precio": "100.000",
+                "pago":"Mensualmente"
+            },
+            {
+                "id":2,
+                "nombre": "Planes pospago",
+                "caracteristicas":"5G",
+                "precio": "35.000",
+                "pago": "Mensualmente"
+            },
+            {
+                "id":3,
+                "nombre": "Planes prepago",
+                "caracteristicas":"4G y 5G",
+                "precio": "45.000",
+                "pago": "Mensualmente"
+            }
+        ],
+        "bonificaciones":"Clientes",
+        "descuentos":[
+            {
+                "id":1,
+                "nombre":"Descuento",
+                "porcentaje": "30%"
+            },
+            {
+                "id":2,
+                "nombre":"Descuento",
+                "porcentaje":"35"
+            },
+            {
+                "id":3,
+                "nombre":"Descuento",
+                "porcentaje":"40%"
+            }
+        ],
+        "Servicios":"Clientes",
+        "adicionales":[
+            {
+                "id":1,
+                "nombre":"Servicio de TV gratuito"
+            },
+            {
+                "id":2,
+                "nombre":"Servicio de internet gratuito con gigas limitadas"
+            }
+        ]
+
+    }
+]
